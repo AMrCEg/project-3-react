@@ -1,0 +1,13 @@
+/* all */
+* {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-family: "Karla", sans-serif;
+  font-family: Impact, sans-serif;
+  font-style: normal;
+  height: 100vh;
+}
